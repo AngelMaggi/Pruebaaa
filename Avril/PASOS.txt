@@ -1,7 +1,0 @@
-SE hace GIT PULL desde dentro de la carpeta
-
-El GIT ADD -A es para todo o si no GIT ADD "nombre del archivo"
-
-GIT COMMIT -m "Aclaraciones"
-
-SE hace GIT PUSH desde dentro de la carpeta
