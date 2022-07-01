@@ -2,6 +2,8 @@ SE hace GIT PULL desde dentro de la carpeta
 
 El GIT ADD -A es para todo o si no GIT ADD "nombre del archivo"
 
+   GIT RM -r  "nombre del archivo o carpeta/" espera eliminar archivos del repositorio de GitHub 
+
 GIT COMMIT -m "Aclaraciones"
 
 SE hace GIT PUSH desde dentro de la carpeta
